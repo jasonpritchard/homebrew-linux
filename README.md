@@ -17,4 +17,4 @@ Tool for using the kconfig system in linux.
 
 To install:
 
-    brew install linux-tools
+    brew install kconfig-frontends
