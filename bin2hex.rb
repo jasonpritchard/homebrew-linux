@@ -16,7 +16,7 @@ class Bin2hex < Formula
     system "automake --add-missing"
     system "./configure", "--prefix=#{prefix}"
     system "make"
-    #system "make", "install"
+    system "make", "install"
   end
 
 end
