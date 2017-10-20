@@ -12,7 +12,7 @@ To get started with any of these, first tap:
 
 ---
 
-##kconfig-frontends
+## kconfig-frontends
 
 Tool for using the kconfig system in linux.
 
@@ -20,7 +20,7 @@ To install:
 
     brew install kconfig-frontends
 
-##bin2hex
+## bin2hex
 
 Tool to convert binary into Intel-Hex. More info [here](http://www.headcrashers.org/comp/programs/bin2hex.html).
 
